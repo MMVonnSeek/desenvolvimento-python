@@ -1,9 +1,9 @@
 ## 🏗 Em construção...
 # 🐍 desenvolvimento-python
-[![Curso](https://img.shields.io/badge/Curso-Desenvolvedor_Python-blue?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
+[![Curso](https://img.shields.io/badge/Curso-Desenvolvedor_Python-1A1A2E?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
 [![Instituição](https://img.shields.io/badge/Instituição-SENAI_DF-orange?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
 [![Professor](https://img.shields.io/badge/Professor-Max_Muller-black?style=for-the-badge)](https://github.com/MMVonnSeek)
-[![Carga Horária](https://img.shields.io/badge/Carga_Horária-220h-1A1A2E?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
+[![Carga Horária](https://img.shields.io/badge/Carga_Horária-220h-F9E076?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
 [![Python](https://img.shields.io/badge/Python-3.10+-darkblue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 > Material didático completo do curso  de qualificação **Desenvolvedor Python** · SENAI-DF · 220 horas · 2026

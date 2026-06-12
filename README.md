@@ -61,7 +61,7 @@ ucX-nome/
 | Módulo | UC | Título | Carga | Aulas | Status |
 |--------|----|--------|:-----:|:-----:|--------|
 | 1 – Fundamentos | UC1 | Introdução à Programação em Python | 20h | 5 | ✅ Completo |
-| 1 – Fundamentos | UC2 | Estruturas de Dados e Funções | 24h | 6 | ✅ Completo |
+| 1 – Fundamentos | UC2 | Estruturas de Dados e Funções | 24h | 6 | 🔜 Em breve |
 | 2 – Backend e POO | UC3 | Programação Orientada a Objetos | 40h | 10 | 🔜 Em breve |
 | 2 – Backend e POO | UC4 | Manipulação de Arquivos e Exceções | 20h | 5 | 🔜 Em breve |
 | 3 – Dados e Integração | UC5 | Bibliotecas Externas | 28h | 7 | 🔜 Em breve |

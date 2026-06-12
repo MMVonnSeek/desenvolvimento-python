@@ -1,18 +1,18 @@
 ## 🏗 Em construção...
 # 🐍 desenvolvimento-python
-[![Curso](https://img.shields.io/badge/Curso-Desenvolvedor_Python-1A1A2E?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
-[![Instituição](https://img.shields.io/badge/Instituição-SENAI_DF-orange?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
+[![Curso](https://img.shields.io/badge/Curso-Desenvolvedor_Python-082567?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
+[![Instituição](https://img.shields.io/badge/Instituição-SENAI_DF-FC6A03?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
 [![Professor](https://img.shields.io/badge/Professor-Max_Muller-black?style=for-the-badge)](https://github.com/MMVonnSeek)
 [![Carga Horária](https://img.shields.io/badge/Carga_Horária-220h-F9E076?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
 [![Python](https://img.shields.io/badge/Python-3.10+-darkblue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-> Material didático completo do curso  de qualificação **Desenvolvedor Python** · SENAI-DF · 220 horas · 2026
+> Material didático completo do curso  de qualificação **Desenvolvedor Python** · SENAI - DF · 220 horas · 2026
 
 ---
 
 ## Sobre o repositório
 
-Este repositório reúne todo o material produzido para o curso de **Desenvolvedor Python** do SENAI-DF. O conteúdo está organizado por módulo e capitulo, e inclui apostilas, roteiros de aula, exemplos de código comentados e projetos práticos.
+Este repositório reúne todo o material produzido para o curso de **Desenvolvedor Python** do SENAI - DF. O conteúdo está organizado por módulo e capitulo, e inclui apostilas, roteiros de aula, exemplos de código comentados e projetos práticos.
 
 O curso forma profissionais capazes de desenvolver soluções com Python desde a lógica de programação até integração com dados e APIs — totalizando **220 horas** distribuídas em **4 módulos** e **8 capitulos**.
 

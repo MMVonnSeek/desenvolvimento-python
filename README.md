@@ -1,10 +1,10 @@
 ## 🏗 Em construção...
 # 🐍 desenvolvimento-python
-[![Curso](https://img.shields.io/badge/Curso-Desenvolvedor_Python-082567?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
-[![Instituição](https://img.shields.io/badge/Instituição-SENAI_DF-FC6A03?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
+[![Curso](https://img.shields.io/badge/Curso-Desenvolvedor_Python-356CC4?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
+[![Instituição](https://img.shields.io/badge/Instituição-SENAI_DF-FFCB39?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
 [![Professor](https://img.shields.io/badge/Professor-Max_Muller-black?style=for-the-badge)](https://github.com/MMVonnSeek)
-[![Carga Horária](https://img.shields.io/badge/Carga_Horária-220h-F9E076?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
-[![Python](https://img.shields.io/badge/Python-3.10+-darkblue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Carga Horária](https://img.shields.io/badge/Carga_Horária-220h-FFCB39?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
+[![Python](https://img.shields.io/badge/Python-3.10+-356CC4?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 > Material didático completo do curso  de qualificação **Desenvolvedor Python** · SENAI - DF · 220 horas · 2026
 

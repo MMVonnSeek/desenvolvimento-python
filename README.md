@@ -19,7 +19,7 @@ O curso forma profissionais capazes de desenvolver soluções com Python desde a
 ---
 
 <div align="center">
-  <img src="screenshots/MMVonnSeek.png" alt="logo-python" width="800">
+  <img src="screenshot/MMVonnSeek.png" alt="logo-python" width="800">
 </div>
 
 ---

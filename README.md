@@ -1,5 +1,5 @@
 # 🏗️ Em construção...
-# 🐍 desenvolvimento-python
+# Desenvolvimento python
 [![Curso](https://img.shields.io/badge/Curso-Desenvolvedor_Python-356CC4?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
 [![Instituição](https://img.shields.io/badge/Instituição-SENAI_DF-FFCB39?style=for-the-badge)](https://github.com/MMVonnSeek/desenvolvimento-python)
 [![Professor](https://img.shields.io/badge/Professor-Max_Muller-black?style=for-the-badge)](https://github.com/MMVonnSeek)

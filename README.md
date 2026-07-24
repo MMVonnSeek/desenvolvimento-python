@@ -85,7 +85,7 @@ python aula01_print_comentarios.py
 
 **Max Muller**
 Professor · SENAI-DF
-Curso Técnico em Desenvolvimento de Sistemas
+Curso Desenvolvedor Python
 
 [![GitHub](https://img.shields.io/badge/GitHub-MMVonnSeek-181717?style=flat&logo=github)](https://github.com/MMVonnSeek)
 

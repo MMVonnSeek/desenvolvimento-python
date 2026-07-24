@@ -12,9 +12,9 @@
 
 ## Sobre o repositório
 
-Este repositório reúne todo o material produzido para o curso de **Desenvolvedor Python** do SENAI - DF. O conteúdo está organizado por módulo e capitulo, e inclui apostilas, roteiros de aula, exemplos de código comentados e projetos práticos.
+Este repositório reúne todo o material produzido para o curso de **Desenvolvedor Python** do SENAI - DF. O conteúdo está organizado por módulo e capitulo, e inclui roteiros de aula, exemplos de código comentados, atividades e projetos práticos.
 
-O curso forma profissionais capazes de desenvolver soluções com Python desde a lógica de programação até integração com dados e APIs — totalizando **220 horas** distribuídas em **4 módulos** e **8 capitulos**.
+O curso forma profissionais capazes de desenvolver soluções com Python desde a lógica de programação até integração com dados e APIs — totalizando **220 horas** distribuídas em **10 módulos**.
 
 ---
 
@@ -24,94 +24,21 @@ O curso forma profissionais capazes de desenvolver soluções com Python desde a
 
 ---
 
-## Estrutura do repositório
+## Módulos
 
-```
-desenvolvimento-python/
-│
-├── modulo1-fundamentos/
-│   ├── uc1-intro/              # Introdução à Programação em Python (20h)
-│   └── uc2-estruturas/         # Estruturas de Dados e Funções (24h)
-│
-├── modulo2-backend/
-│   ├── uc3-poo/                # Programação Orientada a Objetos (40h)
-│   └── uc4-arquivos/           # Manipulação de Arquivos e Exceções (20h)
-│
-├── modulo3-dados/
-│   ├── uc5-externos/           # Bibliotecas Externas (28h)
-│   └── uc6-analise/            # Introdução a Dados e Análise (36h)
-│
-└── modulo4-projeto/
-    ├── uc7-planejamento/       # Planejamento de Projeto (20h)
-    └── uc8-projeto/            # Projeto Final (12h)
-```
-
-Cada pasta de UC segue sempre a mesma organização interna:
-
-```
-ucX-nome/
-├── apostila.docx       # apostila completa para o aluno
-├── README.md           # descrição da UC e índice de aulas
-├── roteiros/           # roteiros do professor (uso interno)
-│   └── aulaXX.docx
-├── exemplos/           # código demonstrado em aula (VS Code + datashow)
-│   └── aulaXX_tema.py
-├── atividades/         # enunciados das atividades em sala
-└── projetos/           # projetos práticos e projeto final da UC
-```
-
----
-
-## Módulos e Unidades Curriculares
-
-| Módulo | UC | Título | Carga | Aulas | Status |
-|--------|----|--------|:-----:|:-----:|--------|
-| 1 – Fundamentos | UC1 | Introdução à Programação em Python | 20h | 5 | ✅ Completo |
-| 1 – Fundamentos | UC2 | Estruturas de Dados e Funções | 24h | 6 | 🔜 Em breve |
-| 2 – Backend e POO | UC3 | Programação Orientada a Objetos | 40h | 10 | 🔜 Em breve |
-| 2 – Backend e POO | UC4 | Manipulação de Arquivos e Exceções | 20h | 5 | 🔜 Em breve |
-| 3 – Dados e Integração | UC5 | Bibliotecas Externas | 28h | 7 | 🔜 Em breve |
-| 3 – Dados e Integração | UC6 | Introdução a Dados e Análise | 36h | 9 | 🔜 Em breve |
-| 4 – Projeto | UC7 | Planejamento de Projeto | 20h | 5 | 🔜 Em breve |
-| 4 – Projeto | UC8 | Projeto Final | 12h | 3 | 🔜 Em breve |
-| | | **Total** | **220h** | **50** | |
-
----
-
-## Conteúdo atual
-
-### Módulo 1 – Fundamentos
-
-<details>
-<summary><strong>UC1 · Introdução à Programação em Python</strong> — 20h · 5 aulas</summary>
-
-| Aula | Tema | Arquivo |
-|------|------|---------|
-| 01 | Algoritmos, ambiente de desenvolvimento, `print()` | `exemplos/aula01_print_comentarios.py` |
-| 02 | Variáveis, tipos de dados, `input()`, constantes | `exemplos/aula02_variaveis_tipos.py` |
-| 03 | Operadores aritméticos, relacionais, lógicos e condicionais | `exemplos/aula03_operadores_condicionais.py` |
-| 04 | Estruturas de repetição e listas | `exemplos/aula04_repeticao_listas.py` |
-| 05 | Funções e boas práticas (PEP 8) | `exemplos/aula05_funcoes.py` |
-
-**Projeto final:** Sistema de Gerenciamento de Turma com menu, funções e listas.
-
-</details>
-
-<details>
-<summary><strong>UC2 · Estruturas de Dados e Funções</strong> — 24h · 6 aulas</summary>
-
-| Aula | Tema | Arquivo |
-|------|------|---------|
-| 01 | Listas — estrutura, métodos e fatiamento | `exemplos/aula01_listas.py` |
-| 02 | Tuplas e Conjuntos | `exemplos/aula02_tuplas_conjuntos.py` |
-| 03 | Dicionários | `exemplos/aula03_dicionarios.py` |
-| 04 | Funções avançadas — `*args`, `**kwargs`, lambda, recursão | `exemplos/aula04_funcoes_avancadas.py` |
-| 05 | Comprehensions e funções built-in | `exemplos/aula05_comprehensions.py` |
-| 06 | Projeto integrador | `projetos/projeto_final/biblioteca.py` |
-
-**Projeto final:** Biblioteca Digital com cadastro, empréstimo, devolução e estatísticas.
-
-</details>
+| Módulo |
+|--------|
+| 00 – Atividades |
+| 01 – Introdução e Fundamentos |
+| 02 – Funções |
+| 03 – Manipulação de Arquivos e Exceções |
+| 04 – Programação Orientada a Objetos |
+| 05 – Pip |
+| 06 – Introdução a Dados e Análise |
+| 07 – Dados e Integração |
+| 08 – GUI |
+| 09 – Front-End|
+| 10 – Django|
 
 ---
 
@@ -151,20 +78,6 @@ cd modulo1-fundamentos/uc1-intro/exemplos
 # Executar um exemplo
 python aula01_print_comentarios.py
 ```
-
----
-
-## Convenções do repositório
-
-| Prefixo / Padrão | Significado |
-|------------------|-------------|
-| `apostila.docx` | Material do aluno — entregue impresso ou em PDF |
-| `roteiros/aulaXX.docx` | Roteiro do professor — uso interno |
-| `exemplos/aulaXX_tema.py` | Código demonstrado no datashow |
-| `atividades/` | Enunciados das atividades em sala |
-| `projetos/` | Projetos práticos e projeto final da UC |
-| `🔜 Em breve` | UC ainda não iniciada |
-| `✅ Completo` | UC com todos os materiais publicados |
 
 ---
 
